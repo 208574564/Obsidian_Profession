@@ -1,0 +1,12 @@
+{
+  "enabledCssSnippets": [
+    "test"
+  ],
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "translucency": false,
+  "accentColor": "",
+  "interfaceFontFamily": "楷体",
+  "monospaceFontFamily": "微软雅黑",
+  "cssTheme": ""
+}

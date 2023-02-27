@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "d8c12a8e57a6ffc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e02191fe4003c01",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "硬件/模电/变压器.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68c3f7e8562c100f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49f723c4f43c98b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eafc7f47f34e511",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d224c598122b1939",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "PCB",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fae9838f450c9439",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "d12aaab67196a0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "36abde691e523437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94c575ff7ccceac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "硬件/模电/变压器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e98dd11a58c165f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "硬件/模电/变压器.md"
+              }
+            }
+          },
+          {
+            "id": "958b96bed924ce23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5,
+    "collapsed": true
+  },
+  "active": "4e02191fe4003c01",
+  "lastOpenFiles": [
+    "硬件/模电/电感.md",
+    "硬件/模电/电容.md",
+    "硬件/模电/电源.md",
+    "硬件/模电/二极管.md",
+    "硬件/模电/其他.md",
+    "硬件/入门/电子工程师基础.md",
+    "硬件/未命名.md",
+    "硬件/PCB/AD学习.md",
+    "硬件/PCB/资源收集.md",
+    "硬件/TODO.md"
+  ]
+}

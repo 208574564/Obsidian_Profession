@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "d8c12a8e57a6ffc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cabbc69a2613f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6569159db52e605e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件/Git：进度P20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d602b21f44c8a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCU/协议/RS232及RS485.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68c3f7e8562c100f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49f723c4f43c98b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eafc7f47f34e511",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "d224c598122b1939",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#error的用法",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fae9838f450c9439",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.49999618530273
+  },
+  "right": {
+    "id": "d12aaab67196a0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "36abde691e523437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94c575ff7ccceac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "软件/Git：进度P20.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e98dd11a58c165f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "软件/Git：进度P20.md"
+              }
+            }
+          },
+          {
+            "id": "958b96bed924ce23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "6569159db52e605e",
+  "lastOpenFiles": [
+    "MCU/协议/RS232及RS485.md",
+    "[.md",
+    "软件/Obsidian/Mermaid.md",
+    "软件/Obsidian/Obsidian使用.md",
+    "软件/Obsidian/Latex.md",
+    "软件/Obsidian/Markdown.md",
+    "软件/Obsidian/插件管理.md",
+    "MCU/CortexM3权威指南/CortexM3权威指南.md",
+    "MCU/FreeRTOS/FreeRTOS学习.md",
+    "编程语言/C/知识点/杂项/指针表示法和数组表示法.md",
+    "MCU/野火HAL库/DMA.md"
+  ]
+}
